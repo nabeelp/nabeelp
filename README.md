@@ -13,4 +13,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+Check out the following for ideas on what to put here:
+
+- https://www.sitepoint.com/github-profile-readme/
+- https://yushi95.medium.com/how-to-create-a-beautiful-readme-for-your-github-profile-36957caa711c
+- https://dev.to/github/10-standout-github-profile-readmes-h2o
+- 
+
 -->
